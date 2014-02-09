@@ -18,7 +18,6 @@ https://help.github.com/articles/set-up-git
 
 AWS Basics
 www.amazon.com
-www.amazon1.com
 Git Questions 
 ****************
 
